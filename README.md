@@ -51,3 +51,5 @@ Technologies Used
 HTML: For the structure of the app.
 CSS: For styling the layout and toolbox (embedded in <style> tags).
 JavaScript: For canvas drawing logic and interactivity (embedded in <script> tags).
+
+![image](https://github.com/user-attachments/assets/af9cbb47-4096-469f-bacc-95e35f905a34)
